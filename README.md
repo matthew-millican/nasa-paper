@@ -15,6 +15,6 @@ To do this, change the file ending to .command. Then add this shell script as on
 ## Aside
 
 I don't use this script anymore for two reasons, login items require the computer to boot up from being completely off, which I rarely do with my mac.
-Also, different photos have different reoslutions so sometimes the photos could appear too pixelated or too small for my liking. Perhaps there are ways around this, 
+Also, different photos have different resolutions so sometimes the photos could appear too pixelated or too small for my liking. Perhaps there are ways around this, 
 but I like my high-resolution forest background :)
 
